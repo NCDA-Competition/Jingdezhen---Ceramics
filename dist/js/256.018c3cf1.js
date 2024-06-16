@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkjingdezhen_porcelain"]=self["webpackChunkjingdezhen_porcelain"]||[]).push([[256],{256:function(n,e,u){u.r(e),u.d(e,{default:function(){return o}});var r=function(){var n=this,e=n._self._c;return e("div")},l=[],t={props:["route"]},i=t,c=u(1656),s=(0,c.A)(i,r,l,!1,null,null,null),o=s.exports}}]);
+//# sourceMappingURL=256.018c3cf1.js.map
